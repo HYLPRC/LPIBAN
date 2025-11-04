@@ -22,8 +22,7 @@ After downloading, please place the dataset files into the `data_LPI/` directory
 ```bash
 LPIBAN/
 ├── code/                    # code of LPIBAN
-├── output/                  # output of model
-├── framework.png            # BiIN-LPI Framework
+├── framework.png            # LPIBAN Framework
 └── README.md                # You are here
 ```
 
