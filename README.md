@@ -9,7 +9,7 @@ This repository contains the official implementation of the paper:
 
 ## Framework and Dataset
 <p align="center">
-  <img src="framework.png" alt="LPIBAN Framework" width="650">
+  <img src="flowchart.jpg" alt="LPIBAN Framework" width="650">
 </p>
 All datasets used in this work are publicly available and can be downloaded from the following link:  
 👉 [Google Drive Dataset](https://drive.google.com/drive/folders/11j-UZmcGegzxNt5bpGVZDPRAjfQCsNcs?usp=sharing)  
